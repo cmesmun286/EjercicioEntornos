@@ -23,7 +23,7 @@ public class IntersperseStrings {
      * @return the intermixed string
      */
     private static String intersperse(String s1, String s2) {
-        String intersperse = "hola";
+        String intersperse = "";
         
         for (int i = 0; i < s1.length(); i++) {
             System.out.print(s1.charAt(i));
