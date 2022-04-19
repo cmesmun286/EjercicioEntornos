@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * IntersperseStrings class
- * @author Cristina Mesa 
+ * @author Cristina Mesa Muñoz 
  */
 public class IntersperseStrings {
     public static void main(String[] args) {
